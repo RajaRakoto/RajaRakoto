@@ -1,5 +1,7 @@
 ![ Alt text](welcome-git.gif) [](welcome-git.gif) 
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=RajaRakoto" alt="RajaRakoto" /> </p>
+
 My name is Raja, I'm nicknamed Rakoto 😅️
 Student passionate about information technology, particularly computer programming `web development, mobile, scripting` I also like things related to `computer security, open source and GNU/Linux`.
 
