@@ -1,4 +1,6 @@
+<p align="center">
 ![ Alt text](welcome-git.gif) [](welcome-git.gif) 
+</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=RajaRakoto" alt="RajaRakoto" /> </p>
 
