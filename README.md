@@ -11,7 +11,7 @@ Me on github                                                                    
 
 ![blanket](https://github.com/RajaRakoto/RajaRakoto/blob/master/techno.png) [](https://github.com/RajaRakoto/RajaRakoto/blob/master/techno.png)
 
-# You can contact me on:
+<h3 align="center">- You can contact me on -</h3>
 
 <p align="center">
 <a href="mailto:raja.rakoto7@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="gmail" height="40" width="40" /></a> 
@@ -19,4 +19,5 @@ Me on github                                                                    
 <a href="https://www.facebook.com/raja.rakotonirina" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="facebook" height="40" width="40" /></a>
 </p>
 
-### Thanks for visiting me 😉️
+<h4 align="center">Thanks for visiting me 😉️</h4>
+ 
