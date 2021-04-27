@@ -13,8 +13,11 @@ Me on github                                                                    
 
 # You can contact me on:
 
-- 🔗️email: raja.rakoto7@gmail.com
-- 🔗️facebook: https://www.facebook.com/raja.rakotonirina
-- 🔗️linkedin: https://www.linkedin.com/in/raja-rakotonirina-20a0b116b
+<a href="https://www.facebook.com/raja.rakotonirina" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="RajaRakoto" height="25" width="25" /></a>
+</p>
+
+- 🔗️ email: raja.rakoto7@gmail.com
+- 🔗️ facebook: https://www.facebook.com/raja.rakotonirina
+- 🔗️ linkedin: https://www.linkedin.com/in/raja-rakotonirina-20a0b116b
 
 ### Thanks for visiting me 😉️
