@@ -1,5 +1,5 @@
 ![ Alt text](welcome-git.gif) [](welcome-git.gif) 
-![ Alt text](helloworld.gif) [](helloworld.gif)
+![ Alt text](helloworld.gif) [](https://github.com/RajaRakoto/RajaRakoto/blob/master/techno.png)
 
 My name is Raja, I'm nicknamed Rakoto 😅️
 Student passionate about information technology, particularly computer programming `web development, mobile, scripting` I also like things related to `computer security, open source and GNU/Linux`.
