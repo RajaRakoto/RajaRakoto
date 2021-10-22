@@ -2,6 +2,9 @@
 
 <h2 align="center">Hello world ! 👋</h2>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=RajaRakoto" alt="RajaRakoto" /> 
+</p>
+<br>
+<p align="center">
 My name is Raja, student passionate about information technology, particularly computer programming `web development` and `scripting` I also like things related to `computer security, open source and GNU/Linux`.
 </p>
 
