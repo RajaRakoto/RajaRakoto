@@ -4,11 +4,10 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=RajaRakoto" alt="RajaRakoto" /> 
 </p>
 <br>
-<div align="center">
-My name is Raja, student passionate about information technology, particularly computer programming `web development` and `scripting` I also like things related to `computer security, open source and GNU/Linux`.
-</div>
 
-Me on github                                                                                                                                    | Most used languages |
+My name is Raja, student passionate about information technology, particularly computer programming `web development` and `scripting` I also like things related to `computer security, open source and GNU/Linux`.
+
+Me on github       | Most used languages |
 ----------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------- |
 [![Raja Rakotonirina's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RajaRakoto&show_icons=true)](https://github.com/RajaRakoto) | [![Raja Rakotonirina's GitHub Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RajaRakoto&show_icons=true&layout=compact&hide=css,html)](https://github.com/RajaRakoto) 
 
