@@ -5,7 +5,7 @@
 </p>
 <br>
 
-			My name is Raja, student passionate about information technology, particularly computer programming `web development` and `scripting` I also like things related to `computer security, open source and GNU/Linux`.
+My name is Raja, student passionate about information technology, particularly computer programming `web development` and `scripting` I also like things related to `computer security, open source and GNU/Linux`.
 
 Me on github       | Most used languages |
 ----------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------- |
