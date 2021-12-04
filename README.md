@@ -10,12 +10,14 @@
 </p>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=courier&color=%2331CD1E&width=420&lines=raja%40github%3A~%24+echo+%22opensource%22;raja%40github%3A~%24+echo+%22study+%26+share%22;raja%40github%3A~%24+echo+%22improve%22)]()
+
 </div>
 
 <!-- ABOUT -->
 <div align="center">
 
 My name is **Raja**, student passionate about information technology, particularly `web development` and `scripting`. I also like things related to `computer security` , `open source` and ` GNU/Linux`.
+
 </div>
 
 ---
@@ -25,7 +27,8 @@ My name is **Raja**, student passionate about information technology, particular
 - 📚 I’m currently learning <a href="https://fr.wikipedia.org/wiki/JavaScript"> Javascript</a>.
 
 <!-- SECTION1 -->
-| <div align="center"><img src="./src/header-footer/header-white.png" alt="theme-dago"></div><div align="center"><img src="./src/squid-git.gif" width="90"><br>Github<br> ![GitHub metrics](https://metrics.lecoq.io/RajaRakoto)</div><div align="center"><img src="./src/none.png" height="80"><img src="./src/header-footer/footer-white.png" alt="theme-dago"></div> |<div align="center"><img src="./src/header-footer/header-white.png" alt="theme-dago"></div><img src="./src/<3.gif" width="90" height="90"></img><h5>Top repositories</h5> [![Top Repositories](https://github-readme-stats.vercel.app/api/pin/?username=RajaRakoto&repo=cntemad)](https://github.com/RajaRakoto/cntemad) <div align="center"><img src="./src/none.png" height="10"><img src="./src/header-footer/footer-white.png" alt="theme-dago"></div>|
+
+| <div align="center"><img src="./src/header-footer/header-white.png" alt="theme-dago"></div><div align="center"><img src="./src/squid-git.gif" width="90"><br>Github<br> ![GitHub metrics](https://metrics.lecoq.io/RajaRakoto)</div><div align="center"><img src="./src/none.png" height="80"><img src="./src/header-footer/footer-white.png" alt="theme-dago"></div> | <div align="center"><img src="./src/header-footer/header-white.png" alt="theme-dago"></div><img src="./src/<3.gif" width="90" height="90"></img><h5>Top repositories</h5> [![Top Repositories](https://github-readme-stats.vercel.app/api/pin/?username=RajaRakoto&repo=cntemad)](https://github.com/RajaRakoto/cntemad) <div align="center"><img src="./src/none.png" height="10"><img src="./src/header-footer/footer-white.png" alt="theme-dago"></div> |
 | :-- | --- |
 
 <!-- SECTION2 -->
@@ -50,6 +53,7 @@ My name is **Raja**, student passionate about information technology, particular
   ![CSS3](https://img.shields.io/badge/-CSS3-777?style=flat&logo=css3&logoColor=ffffff&labelColor=1572B6) 
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-777?style=flat&logo=bootstrap&logoColor=ffffff&labelColor=563D7C) ![Sass](https://img.shields.io/badge/-Sass-777?style=flat&logo=sass&logoColor=ffffff&labelColor=%23CC6699)
   ![JSON](https://img.shields.io/badge/-JSON-777?style=flat&logo=JSON&logoColor=777&labelColor=ffffff)
+  ![PHP](https://img.shields.io/badge/-PHP-777?style=flat&logo=php&logoColor=ffffff&labelColor=5297ac) 
   ![JavaScript](https://img.shields.io/badge/-JavaScript-777?style=flat&logo=javascript&logoColor=dbb332&labelColor=ffffff)
   </td>
   <td align="center">
@@ -58,7 +62,8 @@ My name is **Raja**, student passionate about information technology, particular
   </td>
   <td align="center">
 
-  ![MySQL](https://img.shields.io/badge/-MySQL-777?style=flat&logo=mysql&labelColor=ffffff) 
+![MySQL](https://img.shields.io/badge/-MySQL-777?style=flat&logo=mysql&labelColor=ffffff)
+
   </td>
   <td align="center">
   
@@ -70,11 +75,13 @@ My name is **Raja**, student passionate about information technology, particular
   </td>
   <td align="center">
 
-  ![Visual Studio Code](https://img.shields.io/badge/-VSCode-777?style=flat&logo=visual-studio-code&labelColor=007ACC) ![sublimetext](https://img.shields.io/badge/-Sublime_text-777?style=flat&logo=sublimetext&labelColor=ffffff)
+![Visual Studio Code](https://img.shields.io/badge/-VSCode-777?style=flat&logo=visual-studio-code&labelColor=007ACC) ![sublimetext](https://img.shields.io/badge/-Sublime_text-777?style=flat&logo=sublimetext&labelColor=ffffff)
+
   </td>
   <td align="center">
 
-  ![Git](https://img.shields.io/badge/-Git-777?style=flat&logo=git&logoColor=F05032&labelColor=ffffff) ![GitHub](https://img.shields.io/badge/-GitHub-777?style=flat&logo=github&logoColor=777&labelColor=ffffff) ![NPM](https://img.shields.io/badge/-NPM-777?style=flat&logo=npm&labelColor=ffffff)
+![Git](https://img.shields.io/badge/-Git-777?style=flat&logo=git&logoColor=F05032&labelColor=ffffff) ![GitHub](https://img.shields.io/badge/-GitHub-777?style=flat&logo=github&logoColor=777&labelColor=ffffff) ![NPM](https://img.shields.io/badge/-NPM-777?style=flat&logo=npm&labelColor=ffffff)
+
   </td>
 
  </tr>
@@ -82,17 +89,19 @@ My name is **Raja**, student passionate about information technology, particular
   <div align="center" > 
   <h5>Languages global stat</h5>
 
-  [![global](https://github-readme-stats.vercel.app/api/top-langs/?username=RajaRakoto&langs_count=20&layout=compact&hide=pascal,html,css)](https://github.com/RajaRakoto)<br><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RajaRakoto&theme=default"><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RajaRakoto&theme=default">
+[![global](https://github-readme-stats.vercel.app/api/top-langs/?username=RajaRakoto&langs_count=20&layout=compact&hide=pascal,html,css)](https://github.com/RajaRakoto)<br><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RajaRakoto&theme=default"><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RajaRakoto&theme=default">
+
   <div align="center"><img src="./src/header-footer/footer-red.png" alt="theme-dago"></div></td>
   </div>
   
 </table>
 
 <!-- SECTION3 -->
-|<div align="center"><img src="./src/header-footer/header-green.png" alt="theme-dago"></div><div align="center"><img src="./src/throphie.gif" width="80" height="55"></img><h5>Trophies</h5> [![trophy](https://github-profile-trophy.vercel.app/?username=RajaRakoto&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)</div>|
-|:-|
-|<div align="center"><h5>Streak stat</h5> ![streak](https://github-readme-streak-stats.herokuapp.com/?user=RajaRakoto&ring=d35242&fire=d35242&currStreakLabel=d35242&sideLabels=51d67b)</div>|
-|<div align="center"><img src="./src/bar.gif" width="80" height="55"></img><h5>Contribution chart</h5> [![chart](https://activity-graph.herokuapp.com/graph?username=RajaRakoto&bg_color=fff&color=444&line=51d67b&point=f73b00)]()</div><div align="center"><img src="./src/header-footer/footer-green.png" alt="theme-dago"></div>|
+
+| <div align="center"><img src="./src/header-footer/header-green.png" alt="theme-dago"></div><div align="center"><img src="./src/throphie.gif" width="80" height="55"></img><h5>Trophies</h5> [![trophy](https://github-profile-trophy.vercel.app/?username=RajaRakoto&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)</div> |
+| :-- |
+| <div align="center"><h5>Streak stat</h5> ![streak](https://github-readme-streak-stats.herokuapp.com/?user=RajaRakoto&ring=d35242&fire=d35242&currStreakLabel=d35242&sideLabels=51d67b)</div> |
+| <div align="center"><img src="./src/bar.gif" width="80" height="55"></img><h5>Contribution chart</h5> [![chart](https://activity-graph.herokuapp.com/graph?username=RajaRakoto&bg_color=fff&color=444&line=51d67b&point=f73b00)]()</div><div align="center"><img src="./src/header-footer/footer-green.png" alt="theme-dago"></div> |
 
 <!-- FOOTER -->
 <div align="center">
