@@ -89,7 +89,7 @@ My name is **Raja**, student passionate about information technology, particular
   <div align="center" > 
   <h5>Languages global stat</h5>
 
-[![global](https://github-readme-stats.vercel.app/api/top-langs/?username=RajaRakoto&langs_count=20&layout=compact&hide=pascal,html,css)](https://github.com/RajaRakoto)<br><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RajaRakoto&theme=default"><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RajaRakoto&theme=default">
+[![global](https://github-readme-stats.vercel.app/api/top-langs/?username=RajaRakoto&langs_count=20&layout=compact&hide=pascal,html,css,php,hack)](https://github.com/RajaRakoto)<br><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RajaRakoto&theme=default"><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RajaRakoto&theme=default">
 
   <div align="center"><img src="./src/header-footer/footer-red.png" alt="theme-dago"></div></td>
   </div>
