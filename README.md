@@ -26,10 +26,10 @@ My name is **Raja**, student passionate about information technology, particular
 - 💻 I'm currently using <a href="https://archlinux.org/"> Arch linux </a> as my operating system.
 - 📚 I’m currently learning <a href="https://fr.wikipedia.org/wiki/JavaScript"> Javascript</a>.
 
-<!-- SECTION1 -->
+<!-- SECTION1
 
 | <div align="center"><img src="./src/header-footer/header-white.png" alt="theme-dago"></div><div align="center"><img src="./src/squid-git.gif" width="90"><br>Github<br> ![GitHub metrics](https://metrics.lecoq.io/RajaRakoto)</div><div align="center"><img src="./src/none.png" height="80"><img src="./src/header-footer/footer-white.png" alt="theme-dago"></div> | <div align="center"><img src="./src/header-footer/header-white.png" alt="theme-dago"></div><img src="./src/<3.gif" width="90" height="90"></img><h5>Top repositories</h5> [![Top Repositories](https://github-readme-stats.vercel.app/api/pin/?username=RajaRakoto&repo=cntemad)](https://github.com/RajaRakoto/cntemad) <div align="center"><img src="./src/none.png" height="10"><img src="./src/header-footer/footer-white.png" alt="theme-dago"></div> |
-| :-- | --- |
+| :-- | --- | -->
 
 <!-- SECTION2 -->
 <table>
@@ -89,7 +89,9 @@ My name is **Raja**, student passionate about information technology, particular
   <div align="center" > 
   <h5>Languages global stat</h5>
 
-[![global](https://github-readme-stats.vercel.app/api/top-langs/?username=RajaRakoto&langs_count=20&layout=compact&hide=pascal,html,css,php,hack,c,java,assembly)](https://github.com/RajaRakoto)<br><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RajaRakoto&theme=default"><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RajaRakoto&theme=default">
+[![global](https://github-readme-stats.vercel.app/api/top-langs/?username=RajaRakoto&langs_count=20&layout=compact&hide=pascal,css,php,hack)](https://github.com/RajaRakoto)
+
+<!-- <br><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RajaRakoto&theme=default"><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RajaRakoto&theme=default"> -->
 
   <div align="center"><img src="./src/header-footer/footer-red.png" alt="theme-dago"></div></td>
   </div>
