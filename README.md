@@ -24,7 +24,7 @@ My name is **Raja**, student passionate about information technology, particular
 
 - 🌐 You can visit my <a href="https://raja-resume.herokuapp.com/">Portfolio</a>.
 - 💻 I'm currently using <a href="https://archlinux.org/"> Arch linux </a> as my operating system.
-- 📚 I’m currently learning <a href="https://fr.wikipedia.org/wiki/JavaScript"> Javascript</a>.
+- 📚 I'am currently learning the world of <a href="https://fr.wikipedia.org/wiki/JavaScript"> Javascript</a>.
 
 <!-- SECTION1
 
