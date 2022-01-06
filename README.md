@@ -28,7 +28,7 @@ My name is **Raja**, student passionate about information technology, particular
 
 <!-- SECTION1
 
-| <div align="center"><img src="./src/header-footer/header-white.png" alt="theme-dago"></div><div align="center"><img src="./src/squid-git.gif" width="90"><br>Github<br> ![GitHub metrics](https://metrics.lecoq.io/RajaRakoto)</div><div align="center"><img src="./src/none.png" height="80"><img src="./src/header-footer/footer-white.png" alt="theme-dago"></div> | <div align="center"><img src="./src/header-footer/header-white.png" alt="theme-dago"></div><img src="./src/<3.gif" width="90" height="90"></img><h5>Top repositories</h5> [![Top Repositories](https://github-readme-stats.vercel.app/api/pin/?username=RajaRakoto&repo=cntemad)](https://github.com/RajaRakoto/cntemad) <div align="center"><img src="./src/none.png" height="10"><img src="./src/header-footer/footer-white.png" alt="theme-dago"></div> |
+| <div align="center"><img src="./src/header-footer/header-white.png" alt="theme-dago"></div><div align="center"><img src="./src/squid-git.gif" width="90"><br>Github<br> ![GitHub metrics](https://metrics.lecoq.io/RajaRakoto)</div><div align="center"><img src="./src/none.png" height="80"><img src="./src/header-footer/footer-white.png" alt="theme-dago"></div> | <div align="center"><img src="./src/header-footer/header-white.png" alt="theme-dago"></div><img src="./src/heart.gif" width="90" height="90"></img><h5>Top repositories</h5> [![Top Repositories](https://github-readme-stats.vercel.app/api/pin/?username=RajaRakoto&repo=cntemad)](https://github.com/RajaRakoto/cntemad) <div align="center"><img src="./src/none.png" height="10"><img src="./src/header-footer/footer-white.png" alt="theme-dago"></div> |
 | :-- | --- | -->
 
 <!-- SECTION2 -->
