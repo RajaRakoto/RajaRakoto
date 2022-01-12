@@ -98,6 +98,9 @@ My name is **Raja**, student passionate about information technology, particular
 | :-- |
 | <div align="center"><h5>Streak stat</h5> ![streak](https://github-readme-streak-stats.herokuapp.com/?user=RajaRakoto&ring=d35242&fire=d35242&currStreakLabel=d35242&sideLabels=51d67b)</div> |
 | <div align="center"><img src="./src/bar.gif" width="80" height="55"></img><h5>Contribution chart</h5> [![chart](https://activity-graph.herokuapp.com/graph?username=RajaRakoto&bg_color=fff&color=444&line=51d67b&point=f73b00)]()</div><div align="center"> |
+<img src="./src/header-footer/footer-green.png" alt="theme-dago">
+
+</table>
 
 <!-- FOOTER -->
 <div align="center">
@@ -109,5 +112,5 @@ My name is **Raja**, student passionate about information technology, particular
 <a href="https://codepen.io/rajarakoto" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="facebook" height="40" width="40" /></a>
 <a href="https://stackoverflow.com/users/17470222/raja-rakotonirina" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="facebook" height="40" width="40" /></a>
 </p>
-<h5 class="test">Thanks for visiting me 😉️</h5><img src="./src/header-footer/footer-green.png" alt="theme-dago"></div>
+<h5 class="test">Thanks for visiting me 😉️</h5></div>
 </div>
