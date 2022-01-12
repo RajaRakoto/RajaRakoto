@@ -35,7 +35,7 @@ My name is **Raja**, student passionate about information technology, particular
 <table>
 
  <th colspan="7">
- <div align="center"><img src="./src/header-footer/header-red.png" alt="theme-dago"></div><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100"><br>Stacks & Tools
+ <div align="center"></div><img src="./src/header-footer/header-red.png" alt="theme-dago"><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100"><br>Stacks & Tools
  </th>
 
  <tr align="center">
@@ -92,17 +92,12 @@ My name is **Raja**, student passionate about information technology, particular
 
 <!-- <br><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RajaRakoto&theme=default"><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RajaRakoto&theme=default"> -->
 
-  <div align="center"><img src="./src/header-footer/footer-red.png" alt="theme-dago"></div></td>
-  </div>
-  
-</table>
-
 <!-- SECTION3 -->
 
-| <div align="center"><img src="./src/header-footer/header-green.png" alt="theme-dago"></div><div align="center"><img src="./src/throphie.gif" width="80" height="55"></img><h5>Trophies</h5> [![trophy](https://github-profile-trophy.vercel.app/?username=RajaRakoto&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)</div> |
+| <div align="center"></div><div align="center"><img src="./src/throphie.gif" width="80" height="55"></img><h5>Trophies</h5> [![trophy](https://github-profile-trophy.vercel.app/?username=RajaRakoto&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)</div> |
 | :-- |
 | <div align="center"><h5>Streak stat</h5> ![streak](https://github-readme-streak-stats.herokuapp.com/?user=RajaRakoto&ring=d35242&fire=d35242&currStreakLabel=d35242&sideLabels=51d67b)</div> |
-| <div align="center"><img src="./src/bar.gif" width="80" height="55"></img><h5>Contribution chart</h5> [![chart](https://activity-graph.herokuapp.com/graph?username=RajaRakoto&bg_color=fff&color=444&line=51d67b&point=f73b00)]()</div><div align="center"><img src="./src/header-footer/footer-green.png" alt="theme-dago"></div> |
+| <div align="center"><img src="./src/bar.gif" width="80" height="55"></img><h5>Contribution chart</h5> [![chart](https://activity-graph.herokuapp.com/graph?username=RajaRakoto&bg_color=fff&color=444&line=51d67b&point=f73b00)]()</div><div align="center"> |
 
 <!-- FOOTER -->
 <div align="center">
@@ -114,5 +109,5 @@ My name is **Raja**, student passionate about information technology, particular
 <a href="https://codepen.io/rajarakoto" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="facebook" height="40" width="40" /></a>
 <a href="https://stackoverflow.com/users/17470222/raja-rakotonirina" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="facebook" height="40" width="40" /></a>
 </p>
-<h5 class="test">Thanks for visiting me 😉️</h5>
+<h5 class="test">Thanks for visiting me 😉️</h5><img src="./src/header-footer/footer-green.png" alt="theme-dago"></div>
 </div>
