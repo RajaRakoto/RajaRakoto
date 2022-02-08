@@ -51,7 +51,7 @@ My name is **Raja**, student passionate about information technology, particular
   
   ![HTML5](https://img.shields.io/badge/-HTML5-777?style=flat&logo=html5&logoColor=ffffff&labelColor=E34F26) 
   ![CSS3](https://img.shields.io/badge/-CSS3-777?style=flat&logo=css3&logoColor=ffffff&labelColor=1572B6) 
-  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-777?style=flat&logo=bootstrap&logoColor=ffffff&labelColor=563D7C) ![Sass](https://img.shields.io/badge/-Sass-777?style=flat&logo=sass&logoColor=ffffff&labelColor=%23CC6699)
+  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-777?style=flat&logo=bootstrap&logoColor=ffffff&labelColor=563D7C) ![Sass](https://img.shields.io/badge/-Sass-777?style=flat&logo=sass&logoColor=ffffff&labelColor=%23CC6699)![SemanticUI](https://img.shields.io/badge/-SemanticUI-777?style=flat&logo=semanticui&logoColor=ffffff&labelColor=)
   ![JSON](https://img.shields.io/badge/-JSON-777?style=flat&logo=JSON&logoColor=777&labelColor=ffffff)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-777?style=flat&logo=javascript&logoColor=dbb332&labelColor=ffffff)
   </td>
@@ -61,7 +61,7 @@ My name is **Raja**, student passionate about information technology, particular
   </td>
   <td align="center">
 
-![MySQL](https://img.shields.io/badge/-MySQL-777?style=flat&logo=mysql&labelColor=ffffff)
+![MySQL](https://img.shields.io/badge/-MySQL-777?style=flat&logo=mysql&labelColor=ffffff)![MariaDB](https://img.shields.io/badge/-mariaDB-777?style=flat&logo=mariaDB&labelColor=brown)
 
   </td>
   <td align="center">
@@ -79,7 +79,7 @@ My name is **Raja**, student passionate about information technology, particular
   </td>
   <td align="center">
 
-![Git](https://img.shields.io/badge/-Git-777?style=flat&logo=git&logoColor=F05032&labelColor=ffffff) ![GitHub](https://img.shields.io/badge/-GitHub-777?style=flat&logo=github&logoColor=777&labelColor=ffffff) ![NPM](https://img.shields.io/badge/-NPM-777?style=flat&logo=npm&labelColor=ffffff)
+![Git](https://img.shields.io/badge/-Git-777?style=flat&logo=git&logoColor=F05032&labelColor=ffffff) ![GitHub](https://img.shields.io/badge/-GitHub-777?style=flat&logo=github&logoColor=777&labelColor=ffffff) ![NPM](https://img.shields.io/badge/-NPM-777?style=flat&logo=npm&labelColor=ffffff)![POSTMAN](https://img.shields.io/badge/-Postman-777?style=flat&logo=postman&labelColor=ffffff)
 
   </td>
 
