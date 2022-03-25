@@ -24,12 +24,10 @@ My name is **Raja**, student passionate about information technology, particular
 
 - 🌐 You can visit my <a href="https://raja-resume.herokuapp.com/">Portfolio</a>.
 - 💻 I use <a href="https://archlinux.org/"> Arch linux </a> as my operating system.
-- 📚 I'am currently learning the world of <a href="https://fr.wikipedia.org/wiki/JavaScript"> Javascript </a> and <a href="https://fr.wikipedia.org/wiki/Python_(langage)"> Python </a>.
-
+- 📚 I'am currently learning the world of <a href="https://fr.wikipedia.org/wiki/JavaScript"> Javascript </a>
 <!-- SECTION1
 
-| <div align="center"><img src="./src/header-footer/header-white.png" alt="theme-dago"></div><div align="center"><img src="./src/squid-git.gif" width="90"><br>Github<br> ![GitHub metrics](https://metrics.lecoq.io/RajaRakoto)</div><div align="center"><img src="./src/none.png" height="80"><img src="./src/header-footer/footer-white.png" alt="theme-dago"></div> | <div align="center"><img src="./src/header-footer/header-white.png" alt="theme-dago"></div><img src="./src/heart.gif" width="90" height="90"></img><h5>Top repositories</h5> [![Top Repositories](https://github-readme-stats.vercel.app/api/pin/?username=RajaRakoto&repo=cntemad)](https://github.com/RajaRakoto/cntemad) <div align="center"><img src="./src/none.png" height="10"><img src="./src/header-footer/footer-white.png" alt="theme-dago"></div> |
-| :-- | --- | -->
+| <div align="center"><img src="./src/header-footer/header-white.png" alt="theme-dago"></div><div align="center"><img src="./src/squid-git.gif" width="90"><br>Github<br> ![GitHub metrics](https://metrics.lecoq.io/RajaRakoto)</div><div align="center"><img src="./src/none.png" height="80"><img src="./src/header-footer/footer-white.png" alt="theme-dago"></div> | <div align="center"><img src="./src/header-footer/header-white.png" alt="theme-dago"></div><img src="./src/heart.gif" width="90" height="90"></img><h5>Top repositories</h5> [![Top Repositories](https://github-readme-stats.vercel.app/api/pin/?username=RajaRakoto&repo=cntemad)](https://github.com/RajaRakoto/cntemad) <div align="center"><img src="./src/none.png" height="10"><img src="./src/header-footer/footer-white.png" alt="theme-dago"></div> | | :-- | --- | -->
 
 <!-- SECTION2 -->
 <table>
@@ -53,7 +51,8 @@ My name is **Raja**, student passionate about information technology, particular
   ![CSS3](https://img.shields.io/badge/-CSS3-777?style=flat&logo=css3&logoColor=ffffff&labelColor=1572B6) 
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-777?style=flat&logo=bootstrap&logoColor=ffffff&labelColor=563D7C) ![Sass](https://img.shields.io/badge/-Sass-777?style=flat&logo=sass&logoColor=ffffff&labelColor=%23CC6699)![SemanticUI](https://img.shields.io/badge/-SemanticUI-777?style=flat&logo=semanticui&logoColor=ffffff&labelColor=)
   ![JSON](https://img.shields.io/badge/-JSON-777?style=flat&logo=JSON&logoColor=777&labelColor=ffffff)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-777?style=flat&logo=javascript&logoColor=dbb332&labelColor=ffffff)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-777?style=flat&logo=javascript&logoColor=dbb332&labelColor=ffffff)  
+  ![Typescript](https://img.shields.io/badge/-Typescript-777?style=flat&logo=typescript&logoColor=dogerblue&labelColor=ffffff)
   </td>
   <td align="center">
   
@@ -88,7 +87,7 @@ My name is **Raja**, student passionate about information technology, particular
   <div align="center" > 
   <h5>Languages global stat</h5>
 
-[![global](https://github-readme-stats.vercel.app/api/top-langs/?username=RajaRakoto&langs_count=20&layout=compact&hide=pascal,java,c,html,css,php,hack)](https://github.com/RajaRakoto)
+[![global](https://github-readme-stats.vercel.app/api/top-langs/?username=RajaRakoto&langs_count=20&layout=compact&hide=pascal,java,c,html,css,php,hack,python,assembly,shell)](https://github.com/RajaRakoto)
 
 <!-- <br><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RajaRakoto&theme=default"><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RajaRakoto&theme=default"> -->
 
