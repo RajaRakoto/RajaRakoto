@@ -53,6 +53,8 @@ My name is **Raja**, student passionate about information technology, particular
   ![JSON](https://img.shields.io/badge/-JSON-777?style=flat&logo=JSON&logoColor=777&labelColor=ffffff)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-777?style=flat&logo=javascript&logoColor=dbb332&labelColor=ffffff)  
   ![Typescript](https://img.shields.io/badge/-Typescript-777?style=flat&logo=typescript&logoColor=dogerblue&labelColor=ffffff)
+  ![React](https://img.shields.io/badge/-React-777?style=flat&logo=react&logoColor=dogerblue&labelColor=ffffff)
+  ![Grunt](https://img.shields.io/badge/-Grunt-777?style=flat&logo=grunt&logoColor=yellow&labelColor=ffffff)
   </td>
   <td align="center">
   
@@ -65,7 +67,7 @@ My name is **Raja**, student passionate about information technology, particular
   </td>
   <td align="center">
   
-  ![Arch](https://img.shields.io/badge/-Arch_linux-777?style=flat&logo=archlinux&labelColor=ffffff) ![Docker](https://img.shields.io/badge/-Docker-777?style=flat&logo=docker&labelColor=ffffff) ![VMbox](https://img.shields.io/badge/-VMbox-777?style=flat&logo=vmware&labelColor=ffffff)
+  ![Arch](https://img.shields.io/badge/-Arch_linux-777?style=flat&logo=archlinux&labelColor=ffffff)  ![Manjaro](https://img.shields.io/badge/-Manjaro-777?style=flat&logo=manjaro&labelColor=ffffff) ![Docker](https://img.shields.io/badge/-Docker-777?style=flat&logo=docker&labelColor=ffffff) ![VirtualBox](https://img.shields.io/badge/-VirtualBox-777?style=flat&logo=virtualbox&labelColor=dodgerblue)
   </td>
   <td align="center">
   
@@ -78,7 +80,7 @@ My name is **Raja**, student passionate about information technology, particular
   </td>
   <td align="center">
 
-![Git](https://img.shields.io/badge/-Git-777?style=flat&logo=git&logoColor=F05032&labelColor=ffffff) ![GitHub](https://img.shields.io/badge/-GitHub-777?style=flat&logo=github&logoColor=777&labelColor=ffffff) ![NPM](https://img.shields.io/badge/-NPM-777?style=flat&logo=npm&labelColor=ffffff)![POSTMAN](https://img.shields.io/badge/-Postman-777?style=flat&logo=postman&labelColor=ffffff)![Fontawesome](https://img.shields.io/badge/-Fontawesome-777?style=flat&logo=fontawesome&labelColor=ffffff)
+![Git](https://img.shields.io/badge/-Git-777?style=flat&logo=git&logoColor=F05032&labelColor=ffffff) ![GitHub](https://img.shields.io/badge/-GitHub-777?style=flat&logo=github&logoColor=777&labelColor=ffffff) ![NPM](https://img.shields.io/badge/-NPM-777?style=flat&logo=npm&labelColor=ffffff)![POSTMAN](https://img.shields.io/badge/-Postman-777?style=flat&logo=postman&labelColor=ffffff) ![Fontawesome](https://img.shields.io/badge/-Fontawesome-777?style=flat&logo=fontawesome&labelColor=ffffff)
 
   </td>
 
