@@ -1,6 +1,6 @@
 <!-- BANNER -->
 <div align="center">
-<img src="./src/welcome.png" alt="welcome" width="620" height="200">
+<img src="./src/welcome.png" alt="welcome" width="520" height="150">
 </div>
 
 <!-- HEADER -->
@@ -16,24 +16,22 @@
 <!-- ABOUT -->
 <div align="center">
 
-My name is **Raja**, student passionate about information technology, particularly `web development` and `scripting`. I also like things related to `computer security` , `open source` and ` GNU/Linux`.
-
-</div>
+My name is **Raja**, passionate about information technology, particularly `web development`. I also like things related to `computer security`, `open source` and ` GNU/Linux`.
 
 ---
 
-- 🌐 You can visit my <a href="https://raja-resume.herokuapp.com/">Portfolio</a>.
-- 💻 I use <a href="https://archlinux.org/"> Arch linux </a> as my operating system.
-- 📚 I'am currently learning the world of <a href="https://fr.wikipedia.org/wiki/JavaScript"> Javascript </a>
-<!-- SECTION1
+🌐 You can visit my <a href="https://raja-resume.herokuapp.com/">Portfolio</a> <br> 💻 I use **Arch linux** as my operating system <br> 📚 I'am currently learning the world of **Javascript**
 
-| <div align="center"><img src="./src/header-footer/header-white.png" alt="theme-dago"></div><div align="center"><img src="./src/squid-git.gif" width="90"><br>Github<br> ![GitHub metrics](https://metrics.lecoq.io/RajaRakoto)</div><div align="center"><img src="./src/none.png" height="80"><img src="./src/header-footer/footer-white.png" alt="theme-dago"></div> | <div align="center"><img src="./src/header-footer/header-white.png" alt="theme-dago"></div><img src="./src/heart.gif" width="90" height="90"></img><h5>Top repositories</h5> [![Top Repositories](https://github-readme-stats.vercel.app/api/pin/?username=RajaRakoto&repo=cntemad)](https://github.com/RajaRakoto/cntemad) <div align="center"><img src="./src/none.png" height="10"><img src="./src/header-footer/footer-white.png" alt="theme-dago"></div> | | :-- | --- | -->
+</div>
 
-<!-- SECTION2 -->
+<!-- SECTION -->
 <table>
 
  <th colspan="7">
- <div align="center"><img src="./src/header-footer/header-red.png" alt="theme-dago"></div><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100"><br>Stacks & Tools
+ <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="150"><br>
+
+[![global](https://github-readme-stats.vercel.app/api/top-langs/?username=RajaRakoto&langs_count=20&layout=compact&hide=pascal,java,c,html,css,php,hack,python,assembly,shell,scss)](https://github.com/RajaRakoto)
+
  </th>
 
  <tr align="center">
@@ -62,7 +60,7 @@ My name is **Raja**, student passionate about information technology, particular
   </td>
   <td align="center">
 
-![MySQL](https://img.shields.io/badge/-MySQL-777?style=flat&logo=mysql&labelColor=ffffff)![MariaDB](https://img.shields.io/badge/-mariaDB-777?style=flat&logo=mariaDB&labelColor=brown)
+![MySQL](https://img.shields.io/badge/-MySQL-777?style=flat&logo=mysql&labelColor=ffffff)![MariaDB](https://img.shields.io/badge/-mariaDB-777?style=flat&logo=mariaDB&labelColor=brown)![MongoDB](https://img.shields.io/badge/-mongoDB-777?style=flat&logo=mongodb&labelColor=ffffff)
 
   </td>
   <td align="center">
@@ -86,27 +84,8 @@ My name is **Raja**, student passionate about information technology, particular
 
  </tr>
  <td colspan="7">
-  <div align="center" > 
-  <h5>Languages global stat</h5>
+  <div align="center" >
 
-[![global](https://github-readme-stats.vercel.app/api/top-langs/?username=RajaRakoto&langs_count=20&layout=compact&hide=pascal,java,c,html,css,php,hack,python,assembly,shell,scss)](https://github.com/RajaRakoto)
-
-<!-- <br><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RajaRakoto&theme=default"><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RajaRakoto&theme=default"> -->
-
-  </td>
-  </div>
-  
-</table>
-
-<!-- SECTION3 -->
-
-| </div><div align="center"><img src="./src/throphie.gif" width="80" height="55"></img><h5>Trophies</h5> [![trophy](https://github-profile-trophy.vercel.app/?username=RajaRakoto&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)</div> |
-| :-- |
-| <div align="center"><h5>Streak stat</h5> ![streak](https://github-readme-streak-stats.herokuapp.com/?user=RajaRakoto&ring=d35242&fire=d35242&currStreakLabel=d35242&sideLabels=51d67b)</div> |
-| <div align="center"><img src="./src/bar.gif" width="80" height="55"></img><h5>Contribution chart</h5> [![chart](https://activity-graph.herokuapp.com/graph?username=RajaRakoto&bg_color=fff&color=444&line=51d67b&point=f73b00)]()</div><div align="center"><img src="./src/header-footer/footer-green.png" alt="theme-dago"></div> |
-
-<!-- FOOTER -->
-<div align="center">
 <h4>You can find me on 💬</h4>
 <p>
 <a href="mailto:raja.rakoto7@gmail.com" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="gmail" height="40" width="40" /></a> 
@@ -116,4 +95,8 @@ My name is **Raja**, student passionate about information technology, particular
 <a href="https://stackoverflow.com/users/17470222/raja-rakotonirina" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="facebook" height="40" width="40" /></a>
 </p>
 <h5 class="test">Thanks for visiting me 😉️</h5>
-</div>
+
+  </td>
+  </div>
+  
+</table>
