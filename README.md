@@ -30,7 +30,7 @@ My name is **Raja**, passionate about information technology, particularly `web 
  <th colspan="7">
  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="150"><br>
 
-[![global](https://github-readme-stats.vercel.app/api/top-langs/?username=RajaRakoto&langs_count=20&layout=compact&hide=pascal,java,c,html,css,php,hack,python,assembly,shell,scss)](https://github.com/RajaRakoto)
+[![global](https://github-readme-stats.vercel.app/api/top-langs/?username=RajaRakoto&langs_count=20&layout=compact&hide=pascal,java,c,html,css,php,hack,python,assembly,scss)](https://github.com/RajaRakoto)
 
  </th>
 
