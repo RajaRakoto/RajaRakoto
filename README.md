@@ -20,7 +20,7 @@ My name is **Raja**, passionate about information technology, particularly `web 
 
 ---
 
-🌐 You can visit my <a href="https://raja-resume.herokuapp.com/">Portfolio</a> <br> 💻 I use **Arch linux** as my operating system <br> 📚 I'am currently learning the world of **Javascript**
+🌐 You can visit my <a href="#">Portfolio</a> <br> 💻 I use **Arch linux** as my operating system <br> 📚 I'am currently learning the world of **Javascript**
 
 </div>
 
