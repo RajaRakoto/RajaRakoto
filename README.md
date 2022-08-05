@@ -36,7 +36,7 @@ My name is **Raja**, passionate about information technology, particularly `web 
 
  <tr align="center">
   <td><img src="./src/web.png" width="35"><br>Web</td>
-  <td><img src="./src/script.png" width="30"><br>Script (CLI)</td>
+  <td><img src="./src/script.png" width="30"><br>Script (CLI) & Bot</td>
   <td><img src="./src/database.png" width="30"><br>Database</td>
   <td><img src="./src/sys.png" width="30"><br>O.S & Virtualization</td>
   <td><img src="./src/deploy.png" width="30"><br>Deploy</td>
