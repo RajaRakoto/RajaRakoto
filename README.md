@@ -20,7 +20,7 @@ My name is **Raja**, passionate about information technology, particularly `web 
 
 ---
 
-🌐 You can visit my <a href="#">Portfolio (loading...)</a> <br> 💻 I use **Arch linux** as my operating system <br> 📚 I'am currently learning the world of **Javascript**
+🌐 You can visit my <a href="#">Portfolio (loading...)</a> <br> 💻 I use **Arch linux** as my operating system <br> 📚 I'am currently learning the world of **Javascript**  & **Python**
 
 </div>
 
@@ -79,6 +79,7 @@ My name is **Raja**, passionate about information technology, particularly `web 
   <td align="center">
 
 ![Git](https://img.shields.io/badge/-Git-777?style=flat&logo=git&logoColor=F05032&labelColor=ffffff) ![GitHub](https://img.shields.io/badge/-GitHub-777?style=flat&logo=github&logoColor=777&labelColor=ffffff) ![NPM](https://img.shields.io/badge/-NPM-777?style=flat&logo=npm&labelColor=ffffff)![POSTMAN](https://img.shields.io/badge/-Postman-777?style=flat&logo=postman&labelColor=ffffff) ![Fontawesome](https://img.shields.io/badge/-Fontawesome-777?style=flat&logo=fontawesome&labelColor=ffffff)
+[Ngrok](https://img.shields.io/badge/-Ngrok-777?style=flat&logo=ngrok&labelColor=ffffff)
 
   </td>
 
