@@ -1,7 +1,11 @@
 <!-- BANNER -->
-<div align="center">
-<img src="./src/welcome.png" alt="welcome" width="520" height="150">
-</div>
+<table>
+<tr>
+<td><img src="http://octodex.github.com/images/minion.png" alt="mignon" width="200"></img>
+</td>
+<td><img src="./src/welcome.png" alt="welcome" width="520" height="150"></td>
+</tr>
+</table>
 
 <!-- HEADER -->
 <div align="center">
