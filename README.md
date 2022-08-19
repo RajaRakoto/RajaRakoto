@@ -1,4 +1,5 @@
 <!-- BANNER -->
+<div align="center">
 <table>
 <tr>
 <td><img src="http://octodex.github.com/images/minion.png" alt="mignon" width="200"></img>
@@ -6,6 +7,7 @@
 <td><img src="./src/welcome.png" alt="welcome" width="520" height="150"></td>
 </tr>
 </table>
+</div>
 
 <!-- HEADER -->
 <div align="center">
@@ -14,7 +16,6 @@
 </p>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=courier&color=%2331CD1E&width=420&lines=raja%40github%3A~%24+echo+%22opensource%22;raja%40github%3A~%24+echo+%22study+%26+share%22;raja%40github%3A~%24+echo+%22improve%22)]()
-
 </div>
 
 <!-- ABOUT -->
