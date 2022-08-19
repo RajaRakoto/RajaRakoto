@@ -22,70 +22,29 @@
 
 My name is **Raja**, passionate about information technology, particularly `web development`. I also like things related to `computer security`, `open source` and ` GNU/Linux`.
 
----
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RajaRakoto&" alt="current-streak" />
 
-🌐 You can visit my <a href="#">Portfolio (loading...)</a> <br> 💻 I use **Arch linux** as my operating system <br> 📚 I'am currently learning the world of **Javascript**  & **Python**
+<table>
+<td>
 
+🌐 You can visit my <a href="#">Portfolio (loading...)</a> <br> 💻 I use **Arch linux** as my operating system <br> 📚 I'am currently learning the world of **Javascript** & **Python**</td>
+
+<td>
+
+[![global](https://github-readme-stats.vercel.app/api/top-langs/?username=RajaRakoto&langs_count=20&layout=compact&hide=pascal,java,c,html,css,php,hack,assembly,scss)](https://github.com/RajaRakoto)
+
+</td>
+</table>
 </div>
 
 <!-- SECTION -->
 <table>
-
- <th colspan="7">
- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="150"><br>
-
-[![global](https://github-readme-stats.vercel.app/api/top-langs/?username=RajaRakoto&langs_count=20&layout=compact&hide=pascal,java,c,html,css,php,hack,assembly,scss)](https://github.com/RajaRakoto)
-
+ <th>
+ <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="300"><br>
  </th>
-
- <tr align="center">
-  <td><img src="./src/web.png" width="35"><br>Web</td>
-  <td><img src="./src/script.png" width="30"><br>Script (CLI) & Bot</td>
-  <td><img src="./src/database.png" width="30"><br>Database</td>
-  <td><img src="./src/sys.png" width="30"><br>O.S & Virtualization</td>
-  <td><img src="./src/deploy.png" width="30"><br>Deploy</td>
-  <td><img src="./src/editor.png" width="30"><br>IDE</td>
-  <td><img src="./src/others.png" width="30"><br>Others</td>
- </tr>
- <td align="center">
-  
-  ![HTML5](https://img.shields.io/badge/-HTML5-777?style=flat&logo=html5&logoColor=ffffff&labelColor=E34F26) 
-  ![CSS3](https://img.shields.io/badge/-CSS3-777?style=flat&logo=css3&logoColor=ffffff&labelColor=1572B6) 
-  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-777?style=flat&logo=bootstrap&logoColor=ffffff&labelColor=563D7C) ![Sass](https://img.shields.io/badge/-Sass-777?style=flat&logo=sass&logoColor=ffffff&labelColor=%23CC6699)
-  ![JSON](https://img.shields.io/badge/-JSON-777?style=flat&logo=JSON&logoColor=777&labelColor=ffffff)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-777?style=flat&logo=javascript&logoColor=dbb332&labelColor=ffffff)  
-  ![Typescript](https://img.shields.io/badge/-Typescript-777?style=flat&logo=typescript&logoColor=dogerblue&labelColor=ffffff)
-  ![React](https://img.shields.io/badge/-React-777?style=flat&logo=react&logoColor=dogerblue&labelColor=ffffff)
-  ![Grunt](https://img.shields.io/badge/-Grunt-777?style=flat&logo=grunt&logoColor=yellow&labelColor=ffffff)
-  </td>
   <td align="center">
-  
-  ![Python](https://img.shields.io/badge/-Python-777?style=flat&logo=python&labelColor=ffffff) ![Shell](https://img.shields.io/badge/-Shell-777?style=flat&logo=shell&labelColor=333) 
+ <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://gulpjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg" alt="gulp" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://materializecss.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> 
   </td>
-  <td align="center">
-
-![MySQL](https://img.shields.io/badge/-MySQL-777?style=flat&logo=mysql&labelColor=ffffff)![MariaDB](https://img.shields.io/badge/-mariaDB-777?style=flat&logo=mariaDB&labelColor=brown)![MongoDB](https://img.shields.io/badge/-mongoDB-777?style=flat&logo=mongodb&labelColor=ffffff)
-
-  </td>
-  <td align="center">
-  
-  ![Arch](https://img.shields.io/badge/-Arch_linux-777?style=flat&logo=archlinux&labelColor=ffffff)  ![Manjaro](https://img.shields.io/badge/-Manjaro-777?style=flat&logo=manjaro&labelColor=ffffff) ![Docker](https://img.shields.io/badge/-Docker-777?style=flat&logo=docker&labelColor=ffffff) ![VirtualBox](https://img.shields.io/badge/-VirtualBox-777?style=flat&logo=virtualbox&labelColor=dodgerblue)
-  </td>
-  <td align="center">
-  
-  ![Heroku](https://img.shields.io/badge/-Heroku-777?style=flat&logo=heroku&labelColor=430098) ![Netlify](https://img.shields.io/badge/-Netlify-777?style=flat&logo=netlify&labelColor=777) 
-  </td>
-  <td align="center">
-
-![Visual Studio Code](https://img.shields.io/badge/-VSCode-777?style=flat&logo=visual-studio-code&labelColor=007ACC) ![sublimetext](https://img.shields.io/badge/-Sublime_text-777?style=flat&logo=sublimetext&labelColor=ffffff)
-
-  </td>
-  <td align="center">
-
-![Git](https://img.shields.io/badge/-Git-777?style=flat&logo=git&logoColor=F05032&labelColor=ffffff) ![GitHub](https://img.shields.io/badge/-GitHub-777?style=flat&logo=github&logoColor=777&labelColor=ffffff) ![NPM](https://img.shields.io/badge/-NPM-777?style=flat&logo=npm&labelColor=ffffff)![POSTMAN](https://img.shields.io/badge/-Postman-777?style=flat&logo=postman&labelColor=ffffff) ![Fontawesome](https://img.shields.io/badge/-Fontawesome-777?style=flat&logo=fontawesome&labelColor=ffffff)
-
-  </td>
-
  </tr>
  <td colspan="7">
   <div align="center" >
