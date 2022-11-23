@@ -22,7 +22,7 @@
 <!-- ABOUT -->
 <div align="center">
 
-My name is **Raja**, passionate about information technology, particularly `web development`. I also like things related to `computer security`, `open source` and ` GNU/Linux`.
+My name is **Raja**, passionate about IT, especially `web development`. I also like things related to `computer security` and `open source`.
 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RajaRakoto&" alt="current-streak" />
 
