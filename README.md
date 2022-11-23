@@ -29,7 +29,7 @@ My name is **Raja**, passionate about information technology, particularly `web 
 <table>
 <td>
 
-🌐 You can visit my <a href="#">Portfolio (loading...)</a> <br> 💻 I use **Arch linux** as my operating system <br> 📚 I'am currently learning the world of **Javascript** & **Python**</td>
+🌐 You can visit my <a href="https://portfolio-raja.netlify.app/">Portfolio</a> <br> 💻 I use **Arch linux** as my operating system <br> 📚 I'am currently learning the world of **Javascript** & **Python**</td>
 
 <td>
 
