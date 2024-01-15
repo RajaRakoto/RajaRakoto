@@ -22,14 +22,14 @@
 <!-- ABOUT -->
 <div align="center">
 
-My name is **Raja**, passionate about IT. I also like things related to `computer security` and `open source`.
+My name is **Raja**, passionate about IT. `JavaScript` ecosystem enthusiast, I also like things related to `computer security` and `open source`.
 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RajaRakoto&" alt="current-streak" />
 
 <table>
 <td>
 
-🌐 You can visit my <a href="https://portfolio-raja.netlify.app/">Portfolio</a> <br> 💻 I use **Arch linux** as my operating system <br> 📚 I'am currently learning the world of **Javascript** - **Python** - **Flutter**</td>
+🌐 You can visit my <a href="https://portfolio-raja.netlify.app/">Portfolio</a> <br> 💻 I use **Arch linux** distro based as my operating system <br> 🔭 I’m currently working on **JavaScript/TypeScript** - **React.js** - **Pocketbase** - **Bun.js** <br> 🌱 I’m currently learning **Go lang**</td>
 
 <td>
 
@@ -50,9 +50,9 @@ My name is **Raja**, passionate about IT. I also like things related to `compute
 <a href="https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference/Global_Objects/JSON" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/RajaRakoto/github-docs/master/tech-svg/json.svg" alt="json" width="40" height="40"/> </a> 
 <a href="https://www.netlify.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/RajaRakoto/github-docs/master/tech-svg/netlify.svg" alt="netlify" width="40" height="40"/> </a> 
 <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/RajaRakoto/github-docs/master/tech-svg/npm.svg" alt="npm" width="40" height="40"/> </a> 
-<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/RajaRakoto/github-docs/master/tech-svg/vscode.svg" alt="vscode" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a>
+<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/RajaRakoto/github-docs/master/tech-svg/vscode.svg" alt="vscode" width="40" height="40"/> <a href="https://bun.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/RajaRakoto/github-docs/master/tech-svg/bun.svg" alt="bun" width="40" height="40"/> <a href="https://pocketbase.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/RajaRakoto/github-docs/master/tech-svg/pocketbase.svg" alt="pocketbase" width="40" height="40"/> <a href="https://go.dev/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/RajaRakoto/github-docs/master/tech-svg/go.svg" alt="go" width="40" height="40"/> 
 
-  </td>
+ </td>
  </tr>
  <td colspan="7">
   <div align="center" >
