@@ -4,37 +4,32 @@
 <tr>
 <td><img src="http://octodex.github.com/images/minion.png" alt="mignon" width="200"></img>
 </td>
-<td><img src="./src/welcome.png" alt="welcome" width="520" height="150"></td>
+<td><img src="https://github.com/RajaRakoto/github-docs/blob/master/rajarakoto/welcome.png?raw=true"  alt="welcome" width="520" height="150"></td>
 </tr>
 </table>
 </div>
 
 <!-- HEADER -->
 <div align="center">
-<img src="./src/dago.gif" alt="hello" width="50"></img>
+<td><img src="https://github.com/RajaRakoto/github-docs/blob/master/rajarakoto/dago.gif?raw=true"  alt="dago" width="50"></td>
 <p> <img src="https://komarev.com/ghpvc/?username=RajaRokoto" alt="view" width="120"/> 
 </p>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=courier&color=%2331CD1E&width=420&lines=raja%40github%3A~%24+echo+%22opensource%22;raja%40github%3A~%24+echo+%22study+%26+share%22;raja%40github%3A~%24+echo+%22improve%22)]()
-
 </div>
 
 <!-- ABOUT -->
 <div align="center">
-
-Passionate about IT. `JavaScript` ecosystem enthusiast, I also like things related to `computer security` and `open source`.
-
+<h3>
+I'm a passionate advocate for the JavaScript ecosystem. I channel this passion into developing open-source tools that streamline developer productivity.
+</h3>
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RajaRakoto&" alt="current-streak" />
-
 <table>
 <td>
-
-🌐 You can visit my <a href="https://portfolio-raja.netlify.app/">Portfolio</a> <br> 💻 I use **Arch linux** distro based as my operating system <br> 🔭 I’m currently working on **JavaScript/TypeScript** - **React.js** - **Pocketbase** <br> 🌱 I’m currently learning **Bun.js - Quik.js**</td>
-
+🌐 You can visit my <a href="https://portfolio-raja.netlify.app/">Portfolio</a> <br> 💻 I use **Arch linux** distro based as my operating system <br> 🔭 I’m currently working on **JavaScript/TypeScript** - **React.js** - **Pocketbase** <br> 🌱 I’m currently learning **Bun.js - Quik.js** - **Go**</td>
 <td>
 
 [![global](https://github-readme-stats.vercel.app/api/top-langs/?username=RajaRakoto&langs_count=20&layout=compact&hide=pascal,java,c,html,css,php,hack,assembly,scss)](https://github.com/RajaRakoto)
-
 </td>
 </table>
 </div>
@@ -51,12 +46,10 @@ Passionate about IT. `JavaScript` ecosystem enthusiast, I also like things relat
 <a href="https://www.netlify.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/RajaRakoto/github-docs/master/tech-svg/netlify.svg" alt="netlify" width="40" height="40"/> </a> 
 <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/RajaRakoto/github-docs/master/tech-svg/npm.svg" alt="npm" width="40" height="40"/> </a> 
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/RajaRakoto/github-docs/master/tech-svg/vscode.svg" alt="vscode" width="40" height="40"/> <a href="https://bun.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/RajaRakoto/github-docs/master/tech-svg/bun.svg" alt="bun" width="40" height="40"/> <a href="https://pocketbase.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/RajaRakoto/github-docs/master/tech-svg/pocketbase.svg" alt="pocketbase" width="40" height="40"/> <a href="https://go.dev/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/RajaRakoto/github-docs/master/tech-svg/go.svg" alt="go" width="40" height="40"/> <a href="https://qwik.builder.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/RajaRakoto/github-docs/master/tech-svg/qwik.svg" alt="qwik" width="40" height="40"/>
-
  </td>
  </tr>
  <td colspan="7">
-  <div align="center" >
-
+<div align="center" >
 <h4>You can find me on 💬</h4>
 <p>
 <a href="mailto:raja.rakoto7@gmail.com" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="gmail" height="40" width="40" /></a> 
@@ -66,8 +59,6 @@ Passionate about IT. `JavaScript` ecosystem enthusiast, I also like things relat
 <a href="https://stackoverflow.com/users/17470222/raja-rakotonirina" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="facebook" height="40" width="40" /></a>
 </p>
 <h5 class="test">Thanks for visiting me 😉️</h5>
-
   </td>
   </div>
-  
 </table>
