@@ -14,7 +14,7 @@
 <p><img src="https://github.com/RajaRakoto/github-docs/blob/master/rajarakoto/dago.gif?raw=true"  alt="dago" width="50"></p>
 <p><img src="https://komarev.com/ghpvc/?username=RajaRokoto" alt="view" width="120"/></p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=courier&color=%2331CD1E&width=420&lines=raja%40github%3A~%24+echo+%22opensource%22;raja%40github%3A~%24+echo+%22study+%26+share%22;raja%40github%3A~%24+echo+%22improve%22)]()
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&size=18&duration=8000&pause=1500&color=2BD200&center=true&vCenter=true&random=false&width=435&lines=cowsay+-f+tux+%22open-source%22;rg+-i+%22coding%22+~%2Fpassion.txt;echo+%22growth%3Afailure%22+%7C+cut+-d'%3A'+-f1;git+commit+-m+%22contrib+(closes+%237)%22;crontab+%3C%3C%3C+%220+0+*+*+1-5+%2Fhome%2Fdev.sh%22)](https://git.io/typing-svg)
 </div>
 
 <!-- ABOUT -->
