@@ -20,14 +20,14 @@
 <!-- ABOUT -->
 <div align="center">
 <h3>
-I'm a passionate advocate for the JavaScript ecosystem. I channel this passion into developing open-source tools that streamline developer productivity ... 💥
+I'm a passionate advocate for the `JavaScript` ecosystem. I channel this passion into developing `open-source` tools that streamline developer productivity ... 💥
 </h3>
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RajaRakoto&" alt="current-streak" />
 
 <table>
 <td>
 
-🌐 You can visit my <a href="https://portfolio-raja.netlify.app/">Portfolio</a> <br> 💻 I use **Arch linux** distro based as my operating system <br> 🔭 I’m currently working on **JavaScript/TypeScript** - **React.js** - **Pocketbase** <br> 🌱 I’m currently learning **Bun.js - Quik.js** - **Go**</td>
+🌐 You can visit my <a href="https://portfolio-raja.netlify.app/">Portfolio</a> <br> 💻 I use **Arch linux** distro based as my operating system <br> 🔭 I’m currently working on **JavaScript/TypeScript - React.js - Pocketbase - Bun.js** <br> 🌱 I’m currently learning **Quik.js - Go**</td>
 <td>
 
 [![global](https://github-readme-stats.vercel.app/api/top-langs/?username=RajaRakoto&langs_count=20&layout=compact&hide=pascal,java,html,css,php,hack,scss)](https://github.com/RajaRakoto)
