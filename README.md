@@ -29,8 +29,7 @@ I'm a passionate advocate for the `JavaScript` ecosystem. I channel this passion
 <td>
 
 - 🌐 You can visit my <a href="https://portfolio-raja.netlify.app/">Portfolio</a>
-- 💻 I’m currently working on **JavaScript/TypeScript - React/Next.js - Node.js/Bun - Pocketbase**
-- 🌱 I’m currently learning **Qwik**
+- 💻 I’m currently working on **JavaScript/TypeScript - React/Next.js - Qwik/QwikCity - Node.js/Bun - Supabase/Pocketbase**
 - 🤔 I’m interested in **Go**
 - 🐧 I use **Arch linux** distro based as my operating system
 <td>
