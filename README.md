@@ -4,14 +4,14 @@
 <tr>
 <td><img src="http://octodex.github.com/images/minion.png" alt="mignon" width="200"></img>
 </td>
-<td><img src="https://github.com/RajaRakoto/github-docs/blob/master/rajarakoto/welcome.png?raw=true"  alt="welcome" width="520" height="150"></td>
+<td><img src="https://rajarakoto.github.io/github-docs/rajarakoto/welcome.png"  alt="welcome" width="520" height="150"></td>
 </tr>
 </table>
 </div>
 
 <!-- HEADER -->
 <div align="center">
-<p><img src="https://github.com/RajaRakoto/github-docs/blob/master/rajarakoto/dago.gif?raw=true"  alt="dago" width="50"></p>
+<p><img src="https://rajarakoto.github.io/github-docs/rajarakoto/dago.gif"  alt="dago" width="50"></p>
 <p><img src="https://komarev.com/ghpvc/?username=RajaRokoto" alt="view" width="120"/></p>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&size=18&duration=8000&pause=1500&color=2BD200&center=true&vCenter=true&random=false&width=435&lines=cowsay+-f+tux+%22open-source%22;rg+-i+%22coding%22+~%2Fpassion.txt;echo+%22growth%3Afailure%22+%7C+cut+-d'%3A'+-f1;git+commit+-m+%22contrib+(closes+%237)%22;crontab+%3C%3C%3C+%220+0+*+*+1-5+%2Fhome%2Fdev.sh%22)](https://git.io/typing-svg)
