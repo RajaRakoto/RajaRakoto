@@ -26,7 +26,7 @@ Software Engineer crafting `high-performance` systems and `open-source` tools, p
 </h3>
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RajaRakoto&" alt="current-streak" />
 
-<div align="left">
+<div align="center">
 🌐 You can visit my <a href="https://portfolio-raja.netlify.app/">Portfolio</a><br>
 💻 I'm currently working on <b>JavaScript/TypeScript · React/Next.js · Qwik/QwikCity · Node.js/Bun/Hono · Supabase/Pocketbase</b><br>
 🤔 I'm interested in <b>Go/Rust</b><br>
@@ -43,73 +43,73 @@ Software Engineer crafting `high-performance` systems and `open-source` tools, p
 
 <h4>🚀 Languages</h4>
 <p>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="svg/JavaScript.svg" alt="javascript" width="40" height="40"/> </a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="svg/TypeScript.svg" alt="typescript" width="40" height="40"/> </a>
-<a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer"> <img src="svg/Rust.svg" alt="rust" width="40" height="40"/> </a>
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="svg/Python.svg" alt="python" width="40" height="40"/> </a>
-<a href="https://go.dev/" target="_blank" rel="noreferrer"> <img src="svg/Go.svg" alt="go" width="40" height="40"/> </a>
-<a href="https://isocpp.org/" target="_blank" rel="noreferrer"> <img src="svg/C++-(CPlusPlus).svg" alt="cpp" width="40" height="40"/> </a>
-<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="svg/Bash.svg" alt="bash" width="40" height="40"/> </a>
-<a href="https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference/Global_Objects/JSON" target="_blank" rel="noreferrer"> <img src="svg/JSON.svg" alt="json" width="40" height="40"/> </a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="png/JavaScript.png" alt="javascript" width="40" height="40"/> </a>
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="png/TypeScript.png" alt="typescript" width="40" height="40"/> </a>
+<a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer"> <img src="png/Rust.png" alt="rust" width="40" height="40"/> </a>
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="png/Python.png" alt="python" width="40" height="40"/> </a>
+<a href="https://go.dev/" target="_blank" rel="noreferrer"> <img src="png/Go.png" alt="go" width="40" height="40"/> </a>
+<a href="https://isocpp.org/" target="_blank" rel="noreferrer"> <img src="png/C++-(CPlusPlus).png" alt="cpp" width="40" height="40"/> </a>
+<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="png/Bash.png" alt="bash" width="40" height="40"/> </a>
+<a href="https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference/Global_Objects/JSON" target="_blank" rel="noreferrer"> <img src="png/JSON.png" alt="json" width="40" height="40"/> </a>
 </p>
 
 <h4>🎨 Frontend</h4>
 <p>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="svg/React.svg" alt="react" width="40" height="40"/> </a>
-<a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="svg/Redux.svg" alt="redux" width="40" height="40"/> </a>
-<a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="svg/Next.js.svg" alt="nextjs" width="40" height="40"/> </a>
-<a href="https://qwik.builder.io/" target="_blank" rel="noreferrer"> <img src="svg/Qwik.svg" alt="qwik" width="40" height="40"/> </a>
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="svg/Bootstrap.svg" alt="bootstrap" width="40" height="40"/> </a>
-<a href="https://materializecss.com/" target="_blank" rel="noreferrer"> <img src="svg/Materialize.svg" alt="materialize" width="40" height="40"/> </a>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="svg/Tailwind-CSS.svg" alt="tailwindcss" width="40" height="40"/> </a>
-<a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="svg/Sass.svg" alt="sass" width="40" height="40"/> </a>
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="svg/HTML5.svg" alt="html5" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="svg/CSS3.svg" alt="css3" width="40" height="40"/> </a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="png/React.png" alt="react" width="40" height="40"/> </a>
+<a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="png/Redux.png" alt="redux" width="40" height="40"/> </a>
+<a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="png/Next.js.png" alt="nextjs" width="40" height="40"/> </a>
+<a href="https://qwik.builder.io/" target="_blank" rel="noreferrer"> <img src="png/Qwik.png" alt="qwik" width="40" height="40"/> </a>
+<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="png/Bootstrap.png" alt="bootstrap" width="40" height="40"/> </a>
+<a href="https://materializecss.com/" target="_blank" rel="noreferrer"> <img src="png/Materialize.png" alt="materialize" width="40" height="40"/> </a>
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="png/Tailwind-CSS.png" alt="tailwindcss" width="40" height="40"/> </a>
+<a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="png/Sass.png" alt="sass" width="40" height="40"/> </a>
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="png/HTML5.png" alt="html5" width="40" height="40"/> </a>
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="png/CSS3.png" alt="css3" width="40" height="40"/> </a>
 </p>
 
 <h4>⚙️ Backend</h4>
 <p>
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="svg/Node.js.svg" alt="nodejs" width="40" height="40"/> </a>
-<a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="svg/Express.svg" alt="express" width="40" height="40"/> </a>
-<a href="https://bun.com/" target="_blank" rel="noreferrer"> <img src="svg/Bun.svg" alt="bun" width="40" height="40"/> </a>
+<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="png/Node.js.png" alt="nodejs" width="40" height="40"/> </a>
+<a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="png/Express.png" alt="express" width="40" height="40"/> </a>
+<a href="https://bun.com/" target="_blank" rel="noreferrer"> <img src="png/Bun.png" alt="bun" width="40" height="40"/> </a>
 </p>
 
 <h4>🗄️ Databases</h4>
 <p>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="svg/MongoDB.svg" alt="mongodb" width="40" height="40"/> </a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="svg/MySQL.svg" alt="mysql" width="40" height="40"/> </a>
-<a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="svg/SQLite.svg" alt="sqlite" width="40" height="40"/> </a>
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="png/MongoDB.png" alt="mongodb" width="40" height="40"/> </a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="png/MySQL.png" alt="mysql" width="40" height="40"/> </a>
+<a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="png/SQLite.png" alt="sqlite" width="40" height="40"/> </a>
 <a href="https://pocketbase.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/RajaRakoto/github-docs/master/tech-svg/pocketbase.svg" alt="pocketbase" width="40" height="40"/> </a>
 </p>
 
 <h4>☁️ Cloud & DevOps</h4>
 <p>
-<a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="svg/Azure.svg" alt="azure" width="40" height="40"/> </a>
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="svg/Firebase.svg" alt="firebase" width="40" height="40"/> </a>
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="svg/Docker.svg" alt="docker" width="40" height="40"/> </a>
-<a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="svg/Heroku.svg" alt="heroku" width="40" height="40"/> </a>
+<a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="png/Azure.png" alt="azure" width="40" height="40"/> </a>
+<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="png/Firebase.png" alt="firebase" width="40" height="40"/> </a>
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="png/Docker.png" alt="docker" width="40" height="40"/> </a>
+<a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="png/Heroku.png" alt="heroku" width="40" height="40"/> </a>
 <a href="https://www.netlify.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/RajaRakoto/github-docs/master/tech-svg/netlify.svg" alt="netlify" width="40" height="40"/> </a>
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="svg/Linux.svg" alt="linux" width="40" height="40"/> </a>
-<a href="https://archlinux.fr/" target="_blank" rel="noreferrer"> <img src="svg/Arch-Linux.svg" alt="archlinux" width="40" height="40"/> </a>
+<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="png/Linux.png" alt="linux" width="40" height="40"/> </a>
+<a href="https://archlinux.fr/" target="_blank" rel="noreferrer"> <img src="png/Arch-Linux.png" alt="archlinux" width="40" height="40"/> </a>
 </p>
 
 <h4>🛠️ Tools</h4>
 <p>
-<a href="https://vitejs.dev/" target="_blank" rel="noreferrer"> <img src="svg/Vite.js.svg" alt="vite" width="40" height="40"/> </a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="svg/Git.svg" alt="git" width="40" height="40"/> </a>
-<a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="svg/GitHub.svg" alt="github" width="40" height="40"/> </a>
-<a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="svg/Jest.svg" alt="jest" width="40" height="40"/> </a>
-<a href="https://gruntjs.com/" target="_blank" rel="noreferrer"> <img src="svg/Grunt.js.svg" alt="grunt" width="40" height="40"/> </a>
-<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="svg/Postman.svg" alt="postman" width="40" height="40"/> </a>
-<a href="https://swagger.io/" target="_blank" rel="noreferrer"> <img src="svg/Swagger.svg" alt="swagger" width="40" height="40"/> </a>
-<a href="https://www.openapis.org/" target="_blank" rel="noreferrer"> <img src="svg/OpenAPI.svg" alt="openapi" width="40" height="40"/> </a>
-<a href="https://insomnia.rest/" target="_blank" rel="noreferrer"> <img src="svg/Insomnia.svg" alt="insomnia" width="40" height="40"/> </a>
-<a href="https://filezilla-project.org/" target="_blank" rel="noreferrer"> <img src="svg/FileZilla.svg" alt="filezilla" width="40" height="40"/> </a>
-<a href="https://www.npmjs.com/" target="_blank" rel="noreferrer"> <img src="svg/NPM.svg" alt="npm" width="40" height="40"/> </a>
-<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="svg/Visual-Studio-Code-(VS-Code).svg" alt="vscode" width="40" height="40"/> </a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="svg/Figma.svg" alt="figma" width="40" height="40"/> </a>
-<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="svg/Adobe-Illustrator.svg" alt="illustrator" width="40" height="40"/> </a>
-<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="svg/Adobe-Photoshop.svg" alt="photoshop" width="40" height="40"/> </a>
+<a href="https://vitejs.dev/" target="_blank" rel="noreferrer"> <img src="png/Vite.js.png" alt="vite" width="40" height="40"/> </a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="png/Git.png" alt="git" width="40" height="40"/> </a>
+<a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="png/GitHub.png" alt="github" width="40" height="40"/> </a>
+<a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="png/Jest.png" alt="jest" width="40" height="40"/> </a>
+<a href="https://gruntjs.com/" target="_blank" rel="noreferrer"> <img src="png/Grunt.js.png" alt="grunt" width="40" height="40"/> </a>
+<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="png/Postman.png" alt="postman" width="40" height="40"/> </a>
+<a href="https://swagger.io/" target="_blank" rel="noreferrer"> <img src="png/Swagger.png" alt="swagger" width="40" height="40"/> </a>
+<a href="https://www.openapis.org/" target="_blank" rel="noreferrer"> <img src="png/OpenAPI.png" alt="openapi" width="40" height="40"/> </a>
+<a href="https://insomnia.rest/" target="_blank" rel="noreferrer"> <img src="png/Insomnia.png" alt="insomnia" width="40" height="40"/> </a>
+<a href="https://filezilla-project.org/" target="_blank" rel="noreferrer"> <img src="png/FileZilla.png" alt="filezilla" width="40" height="40"/> </a>
+<a href="https://www.npmjs.com/" target="_blank" rel="noreferrer"> <img src="png/NPM.png" alt="npm" width="40" height="40"/> </a>
+<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="png/Visual-Studio-Code-(VS-Code).png" alt="vscode" width="40" height="40"/> </a>
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="png/Figma.png" alt="figma" width="40" height="40"/> </a>
+<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="png/Adobe-Illustrator.png" alt="illustrator" width="40" height="40"/> </a>
+<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="png/Adobe-Photoshop.png" alt="photoshop" width="40" height="40"/> </a>
 </p>
   </td>
   </tr>
