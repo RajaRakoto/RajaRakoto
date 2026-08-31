@@ -26,19 +26,12 @@ Software Engineer crafting `high-performance` systems and `open-source` tools, p
 </h3>
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RajaRakoto&" alt="current-streak" />
 
-<table>
-<td>
-
-- 🌐 You can visit my <a href="https://portfolio-raja.netlify.app/">Portfolio</a>
-- 💻 I'm currently working on **JavaScript/TypeScript · React/Next.js · Qwik/QwikCity · Node.js/Bun · Supabase/Pocketbase · Rust**
-- 🤔 I'm interested in **Go**
-- 🐧 I use **Arch Linux** distro based as my operating system
-
-<td>
-
-[![global](https://github-readme-stats.vercel.app/api/top-langs/?username=RajaRakoto&langs_count=20&layout=compact&hide=pascal,java,html,css,php,hack,scss)](https://github.com/RajaRakoto)
-</td>
-</table>
+<div align="left">
+🌐 You can visit my <a href="">Portfolio</a><br>
+💻 I'm currently working on **JavaScript/TypeScript · React/Next.js · Qwik/QwikCity · Node.js/Bun/Hono · Supabase/Pocketbase**<br>
+🤔 I'm interested in **Go/Rust**<br>
+🐧 I use **Arch Linux** distro based as my operating system
+</div>
 </div>
 
 <!-- TECH STACK -->
