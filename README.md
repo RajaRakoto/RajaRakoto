@@ -21,7 +21,7 @@
 <div align="center">
 <h3>
 
-Software Engineer crafting `high-performance` systems and `open-source` tools, passionate about developer productivity, scalability, and clean code. 💥
+Passionate Software & Product Engineer specializing in building scalable, high-performance digital products. I orchestrate AI to architect and deliver innovative end-to-end solutions, from technical design to deployment. 💥
 
 </h3>
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RajaRakoto&" alt="current-streak" />
